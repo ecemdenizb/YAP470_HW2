@@ -1,0 +1,3 @@
+Sıfır gizli katmanlı model için "zero_hidden_layer_181201071" dosyası, tek gizli katmanlı model için "one_hidden_layer_181201071" dosyası ve iki gizli katmanlı model için "two_hidden_layer_181201071" dosyası içerisinde yer alan PATH değişkenine "housing.csv" dosyasının bilgisayar üzerindeki yolu girilerek çalıştırılır. 
+Kod bu modelin optimal parametreleriyle epoch başına train ve test kaybını grafik olarak çizer. 
+Test verisi için modelin tahmin ettiği y değerleri ile gerçek y değerlerini yan yana yazdırır.
